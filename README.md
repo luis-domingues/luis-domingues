@@ -4,9 +4,9 @@
 [![Gmail](https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luisdomingues117@gmail.com)
 
 ## My name is Luís Domingues
-( .NET | C# | Java | SQL | Typescript | Javascript | HTML | CSS ) 🚀
+( .NET | C# | Java | SQL | PHP | Typescript | Javascript | HTML | CSS ) 🚀
 - Back-end Developer 👩‍💻
-- Graduating in **Software Engineering** at [Universidade Estácio](https://estacio.br/) 🎓
+- Graduating in **Software Engineering** 🎓
 - Passionate about computing and technologies 🌐
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luis-domingues&layout=compact&theme=transparent)
