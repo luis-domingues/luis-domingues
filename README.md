@@ -9,6 +9,8 @@ If you want to get to know me better, visit my [personal portfolio](https://gith
 - [Devboard](https://github.com/luis-domingues/devboard) - a dashboard made to help programmers organize their personal projects (under development ⚠)
 - [Banking App](https://github.com/luis-domingues/banking-app) - simulation of a banking application on a terminal
 - [Personal websibe](https://github.com/luis-domingues/portfolio) - if you need a template for a portfolio, take a look here
+- [Challenges](https://github.com/luis-domingues?tab=repositories&q=challenge) - explore the challenges I completed
+- [Studies](https://github.com/luis-domingues?tab=repositories&q=study) - personal studies/curiosity about programming
 
 <h4>Contact</h4>
 
