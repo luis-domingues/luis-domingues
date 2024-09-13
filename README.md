@@ -12,6 +12,5 @@ If you want to get to know me better, visit my [personal portfolio](https://gith
 - [Challenges](https://github.com/luis-domingues?tab=repositories&q=challenge) - explore the challenges I completed
 - [Studies](https://github.com/luis-domingues?tab=repositories&q=study) - personal studies/curiosity about programming
 
-<h4>Contact</h4>
-
+<h4>Contact:</h4>
 You can find me on [LinkedIn](www.linkedin.com/in/luisdomingues117) or on my [Instagram](https://www.instagram.com/dxmingues_/).
