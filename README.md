@@ -1,16 +1,20 @@
-## Hi there, I'm Luís Domingues 👋
-
-<p>I'm a backend programmer focused on the .NET development environment, who also likes to tinker a little with frontend, Java, databases and other things. Also, I'm studying the 2nd year of the software engineering course at the university.</p>
-
-If you want to get to know me better, visit my [personal portfolio](https://github.com/luis-domingues/portfolio). Feel free to look at my repositories below (:
-
-<h4>Personal projects:</h4>
-
-- [Devboard](https://github.com/luis-domingues/devboard) - a dashboard made to help programmers organize their personal projects (under development ⚠)
-- [Banking App](https://github.com/luis-domingues/banking-app) - simulation of a banking application on a terminal
-- [Personal websibe](https://github.com/luis-domingues/portfolio) - if you need a template for a portfolio, take a look here
-- [Challenges](https://github.com/luis-domingues?tab=repositories&q=challenge) - explore the challenges I completed
-- [Studies](https://github.com/luis-domingues?tab=repositories&q=study) - personal studies/curiosity about programming
-
-<h4>Contact:</h4>
-You can find me on <a href="https://www.linkedin.com/in/luis-paulo-domingues-653834284/">LinkedIn<a/> or on my <a href="https://www.instagram.com/dxmingues_/)">Instagram<a/>.
+<p>
+  <samp>
+    about me 👨🏻‍💻<br>
+      - brazillian | pt-br + en<br>
+      - software engineering student (3/8)<br>
+      - focus on backend development<br>
+      - looking for an internship in the technology field
+    <br><br>
+    main langs ​​&& frameworks 🖥<br>
+      - c#, asp.net, java, spring boot, kotlin, typescript
+    <br><br>
+    other technologies ⚙<br>
+      - postman, azure, sql server, mysql, mongodb
+    <br><br>
+    my personal website 🔎<br>
+      - <a href="https://luis-domingues.github.io/luisdomingues.dev/">luisdomingues.dev</a>
+    <br><br>
+    feel free to look at my repositories and contact me (:
+  </samp>
+</p>
