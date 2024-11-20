@@ -10,7 +10,7 @@
       - c#, asp.net, java, spring boot, kotlin, typescript
     <br><br>
     other technologies ⚙<br>
-      - postman, azure, sql server, mysql, mongodb
+      - postman, azure, postgre sql, sql server, mysql, mongodb
     <br><br>
     my personal website 🔎<br>
       - <a href="https://luis-domingues.github.io/luisdomingues.dev/">luisdomingues.dev</a>
