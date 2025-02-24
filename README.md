@@ -1,19 +1,18 @@
 <div align="center">
-  <p align="left">
+  <p>
     <samp>
-      about me 👨🏻‍💻<br>
-        - brazillian | pt-br + en<br>
-        - software engineering student (3/8)<br>
-        - focus on backend development<br>
-        - looking for an internship in the technology field
+      <h3>about me 👨🏻‍💻</h3>
+      - brazillian | pt-br + en<br>
+      - software engineering student (4/8)<br>
+      - interning in software engineering at <a href="https://www.instagram.com/trendsautomation/">Trends Automation & Eletrical</a>
       <br><br>
-      main langs ​​&& frameworks 🖥<br>
-        - c#, asp.net, java, spring boot, kotlin, typescript
+      <h3>main langs ​​&& frameworks 🖥</h3>
+        - c#, asp.net, java, spring boot, php, typescript
       <br><br>
       other technologies ⚙<br>
         - postman, azure, postgre sql, sql server, mysql, mongodb
       <br><br>
-      my personal website 🔎<br>
+      <h3>my personal website 🔎</h3>
         - <a href="https://luis-domingues.github.io/luisdomingues.dev/">luisdomingues.dev</a>
       <br><br>
       feel free to look at my repositories and contact me (:
