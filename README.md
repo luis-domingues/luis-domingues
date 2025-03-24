@@ -4,7 +4,7 @@
       <h3>about me 👨🏻‍💻</h3>
       - brazillian | pt-br + en<br>
       - software engineering student (4/8)<br>
-      - interning in software engineering at <a href="https://www.instagram.com/trendsautomation/">Trends Automation & Eletrical</a>
+      - software engineering intern
       <br><br>
       <h3>main langs ​​&& frameworks 🖥</h3>
         - c#, asp.net, java, spring boot, php, typescript
