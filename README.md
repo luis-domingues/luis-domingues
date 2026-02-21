@@ -14,7 +14,7 @@
     - postman, azure, postgre sql, sql server, mysql, mongodb
     <br>
     <h3>my personal website 🔎</h3>
-    <a href="https://luisdomingues-dev.vercel.app/">luisdomingues.dev</a>
+    <a href="https://luisdomingues.vercel.app/">luisdomingues.dev</a>
     <br><br>
     feel free to look at my repositories and contact me (:
   </samp>
